@@ -1,5 +1,5 @@
-📝 React To-Do List with Timer
-A simple and interactive To-Do List built with React. It allows users to add, delete, reorder, start, and complete tasks while tracking time spent on each task.
+📝 React To-Do List with Timer <br/>
+A simple and interactive To-Do List built with React. It allows users to add, delete, reorder, start, and complete tasks while tracking time spent on each task. <br/>
 
 🎥 Live Demo <br/>
 <a href="https://rustem-garr.github.io/TickTask/">TickTask Website</a>  <br/>

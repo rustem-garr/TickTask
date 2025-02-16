@@ -113,7 +113,7 @@ body {
 
 .btn {
     font-family: monospace;
-    margin-left: 5px;
+    margin: 2px;
     border: none;
     width: 85px;
     padding: 7px;

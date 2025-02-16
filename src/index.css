@@ -25,13 +25,13 @@ body {
     backdrop-filter: blur(7px);
     padding: 15px 20px;
     margin-top: 0px;
-    width: 900px;
+    width: 80%;
     text-align: center;
     border-radius:20px;
 }
 
 .tasks-container {
-    width: 900px;
+    width: 80%;
     margin: 10px auto;
     backdrop-filter: blur(7px);
     text-align: center;
